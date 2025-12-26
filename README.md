@@ -9,7 +9,8 @@ This repository contains practice files focused on understanding and implementin
 
 - Seaborn Basics & Styling
 - Line plot
-- Multi-line Plot 
+- Multi-line Plot
+- Linear Model plot
   
 
 ---
