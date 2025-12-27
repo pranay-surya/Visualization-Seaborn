@@ -11,6 +11,7 @@ This repository contains practice files focused on understanding and implementin
 - Line plot
 - Multi-line Plot
 - Linear Model plot
+- Heatmap
   
 
 ---
