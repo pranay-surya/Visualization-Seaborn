@@ -12,7 +12,8 @@ This repository contains practice files focused on understanding and implementin
 - Multi-line Plot
 - Linear Model plot
 - Heatmap
-- Scatter plot 
+- Scatter plot
+- Bar plot 
   
 
 ---
