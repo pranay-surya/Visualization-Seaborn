@@ -13,7 +13,8 @@ This repository contains practice files focused on understanding and implementin
 - Linear Model plot
 - Heatmap
 - Scatter plot
-- Bar plot 
+- Bar plot
+- Histogram plot 
   
 
 ---
