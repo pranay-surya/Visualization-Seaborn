@@ -8,13 +8,13 @@ This repository contains practice files focused on understanding and implementin
 ## Concepts Covered
 
 - Seaborn Basics & Styling
-- Line plot
-- Multi-line Plot
+- Line plot , Multi-line Plot
 - Linear Model plot
 - Heatmap
 - Scatter plot
 - Bar plot
-- Histogram plot 
+- Histogram plot
+- Box plot
   
 
 ---
