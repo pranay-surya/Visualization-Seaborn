@@ -15,6 +15,8 @@ This repository contains practice files focused on understanding and implementin
 - Bar plot
 - Histogram plot
 - Box plot
+- Count plot
+- KDE Plot [ Kernel Density Estimation ]
   
 
 ---
